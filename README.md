@@ -8,7 +8,4 @@ Features:
 (2)View a summary of total expenses.
 (3)Simple, intuitive user interface for tracking spending.
 
-Technologies Used:
-HTML
-CSS
-JavaScript
+Technologies Used:HTML for structure CSS for styling JavaScript for functionality
